@@ -1,0 +1,59 @@
+@media screen and (max-width: 480px) {
+  .form-style input[type="text"], .form-style input[type="password"]{
+         width: 100%;
+        padding: 10px;
+        outline: none !important;
+        box-shadow: none !important;
+        border: 2px solid #222;
+        background-color: transparent;
+        font-size: 14px;
+        color: #222222;
+    }  
+    .form-style form {
+       padding: 40px 20px;
+    }
+}
+
+@media all and (max-width: 900px) {
+   
+
+
+}
+
+
+@media screen and (max-width: 860px) {
+
+}
+
+
+
+@media (min-width: 768px) {
+
+}
+  
+
+@media (min-width: 768px) {
+
+}
+
+@media (min-width: 760px) {
+}
+@media (min-width: 1200px) {
+  
+
+}
+
+@media (min-width: 768px) {
+    
+ }
+
+@media (max-width: 992px) {
+}
+
+@media (min-width: 1200px) {
+
+}
+
+@media screen and (max-width: 767px) {
+    
+}
